@@ -4,7 +4,7 @@ An interactive **E-commerce Sales Analysis Dashboard** built using Microsoft Exc
 
 ## Dashboard Preview
 
-![Company Dashboard](dashboard-preview.png)
+![Company Dashboard](dashboard_preview.png)
 
 ## Project Overview
 
